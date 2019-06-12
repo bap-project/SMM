@@ -1,0 +1,2140 @@
+scrapy crawl independentauto -a yearmonth=1992-02 -o dataout/independentauto1992_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=1992-03 -o dataout/independentauto1992_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=1992-04 -o dataout/independentauto1992_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-01 -o dataout/guardianauto2000_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-01 -o dataout/guardianauto2000_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-01 -o dataout/independentauto1997_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-02 -o dataout/guardianauto2000_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-03 -o dataout/guardianauto2000_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-02 -o dataout/independentauto1997_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-04 -o dataout/guardianauto2000_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-05 -o dataout/guardianauto2000_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-03 -o dataout/independentauto1997_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-06 -o dataout/guardianauto2000_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-07 -o dataout/guardianauto2000_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-04 -o dataout/independentauto1997_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-08 -o dataout/guardianauto2000_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-09 -o dataout/guardianauto2000_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-05 -o dataout/independentauto1997_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-10 -o dataout/guardianauto2000_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-06 -o dataout/independentauto1997_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-11 -o dataout/guardianauto2000_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2000-12 -o dataout/guardianauto2000_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-07 -o dataout/independentauto1997_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-01 -o dataout/guardianauto2001_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-02 -o dataout/guardianauto2001_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-08 -o dataout/independentauto1997_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-03 -o dataout/guardianauto2001_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-04 -o dataout/guardianauto2001_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-09 -o dataout/independentauto1997_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-05 -o dataout/guardianauto2001_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-10 -o dataout/independentauto1997_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-06 -o dataout/guardianauto2001_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-07 -o dataout/guardianauto2001_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-08 -o dataout/guardianauto2001_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-11 -o dataout/independentauto1997_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=1997-12 -o dataout/independentauto1997_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-09 -o dataout/guardianauto2001_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-01 -o dataout/independentauto1998_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-02 -o dataout/independentauto1998_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-10 -o dataout/guardianauto2001_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-03 -o dataout/independentauto1998_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-04 -o dataout/independentauto1998_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-11 -o dataout/guardianauto2001_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-05 -o dataout/independentauto1998_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-06 -o dataout/independentauto1998_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2001-12 -o dataout/guardianauto2001_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-07 -o dataout/independentauto1998_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-08 -o dataout/independentauto1998_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-01 -o dataout/guardianauto2002_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-09 -o dataout/independentauto1998_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-10 -o dataout/independentauto1998_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-02 -o dataout/guardianauto2002_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-11 -o dataout/independentauto1998_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=1998-12 -o dataout/independentauto1998_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-03 -o dataout/guardianauto2002_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-01 -o dataout/independentauto1999_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-04 -o dataout/guardianauto2002_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-02 -o dataout/independentauto1999_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-03 -o dataout/independentauto1999_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-05 -o dataout/guardianauto2002_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-04 -o dataout/independentauto1999_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-05 -o dataout/independentauto1999_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-06 -o dataout/guardianauto2002_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-06 -o dataout/independentauto1999_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-07 -o dataout/independentauto1999_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-08 -o dataout/independentauto1999_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-07 -o dataout/guardianauto2002_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-09 -o dataout/independentauto1999_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-10 -o dataout/independentauto1999_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-08 -o dataout/guardianauto2002_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-11 -o dataout/independentauto1999_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-09 -o dataout/guardianauto2002_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=1999-12 -o dataout/independentauto1999_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-01 -o dataout/independentauto2000_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-02 -o dataout/independentauto2000_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-10 -o dataout/guardianauto2002_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-03 -o dataout/independentauto2000_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-04 -o dataout/independentauto2000_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-11 -o dataout/guardianauto2002_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-05 -o dataout/independentauto2000_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-06 -o dataout/independentauto2000_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2002-12 -o dataout/guardianauto2002_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-07 -o dataout/independentauto2000_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-01 -o dataout/guardianauto2003_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-08 -o dataout/independentauto2000_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-09 -o dataout/independentauto2000_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-02 -o dataout/guardianauto2003_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-10 -o dataout/independentauto2000_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-11 -o dataout/independentauto2000_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-03 -o dataout/guardianauto2003_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2000-12 -o dataout/independentauto2000_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-04 -o dataout/guardianauto2003_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-01 -o dataout/independentauto2001_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-02 -o dataout/independentauto2001_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-03 -o dataout/independentauto2001_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-05 -o dataout/guardianauto2003_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-04 -o dataout/independentauto2001_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-06 -o dataout/guardianauto2003_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-05 -o dataout/independentauto2001_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-06 -o dataout/independentauto2001_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-07 -o dataout/independentauto2001_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-07 -o dataout/guardianauto2003_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-08 -o dataout/independentauto2001_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-09 -o dataout/independentauto2001_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-08 -o dataout/guardianauto2003_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-10 -o dataout/independentauto2001_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-11 -o dataout/independentauto2001_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2001-12 -o dataout/independentauto2001_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-09 -o dataout/guardianauto2003_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-01 -o dataout/independentauto2002_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-02 -o dataout/independentauto2002_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-10 -o dataout/guardianauto2003_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-03 -o dataout/independentauto2002_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-04 -o dataout/independentauto2002_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-11 -o dataout/guardianauto2003_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-05 -o dataout/independentauto2002_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-06 -o dataout/independentauto2002_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2003-12 -o dataout/guardianauto2003_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-07 -o dataout/independentauto2002_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-08 -o dataout/independentauto2002_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-01 -o dataout/guardianauto2004_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-09 -o dataout/independentauto2002_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-10 -o dataout/independentauto2002_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-02 -o dataout/guardianauto2004_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-11 -o dataout/independentauto2002_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2002-12 -o dataout/independentauto2002_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-03 -o dataout/guardianauto2004_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-01 -o dataout/independentauto2003_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-04 -o dataout/guardianauto2004_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-02 -o dataout/independentauto2003_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-03 -o dataout/independentauto2003_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-05 -o dataout/guardianauto2004_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-04 -o dataout/independentauto2003_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-05 -o dataout/independentauto2003_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-06 -o dataout/guardianauto2004_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-06 -o dataout/independentauto2003_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-07 -o dataout/independentauto2003_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-07 -o dataout/guardianauto2004_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-08 -o dataout/independentauto2003_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-09 -o dataout/independentauto2003_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-08 -o dataout/guardianauto2004_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-10 -o dataout/independentauto2003_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-11 -o dataout/independentauto2003_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-09 -o dataout/guardianauto2004_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2003-12 -o dataout/independentauto2003_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-01 -o dataout/independentauto2004_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-10 -o dataout/guardianauto2004_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-02 -o dataout/independentauto2004_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-03 -o dataout/independentauto2004_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-11 -o dataout/guardianauto2004_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-04 -o dataout/independentauto2004_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-05 -o dataout/independentauto2004_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2004-12 -o dataout/guardianauto2004_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-06 -o dataout/independentauto2004_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-07 -o dataout/independentauto2004_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-01 -o dataout/guardianauto2005_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-08 -o dataout/independentauto2004_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-09 -o dataout/independentauto2004_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-10 -o dataout/independentauto2004_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-02 -o dataout/guardianauto2005_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-11 -o dataout/independentauto2004_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2004-12 -o dataout/independentauto2004_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-03 -o dataout/guardianauto2005_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-01 -o dataout/independentauto2005_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-04 -o dataout/guardianauto2005_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-02 -o dataout/independentauto2005_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-03 -o dataout/independentauto2005_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-05 -o dataout/guardianauto2005_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-04 -o dataout/independentauto2005_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-05 -o dataout/independentauto2005_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-06 -o dataout/guardianauto2005_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-06 -o dataout/independentauto2005_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-07 -o dataout/independentauto2005_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-07 -o dataout/guardianauto2005_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-08 -o dataout/independentauto2005_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-09 -o dataout/independentauto2005_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-10 -o dataout/independentauto2005_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-08 -o dataout/guardianauto2005_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-11 -o dataout/independentauto2005_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2005-12 -o dataout/independentauto2005_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-09 -o dataout/guardianauto2005_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-01 -o dataout/independentauto2006_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-02 -o dataout/independentauto2006_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-10 -o dataout/guardianauto2005_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-03 -o dataout/independentauto2006_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-04 -o dataout/independentauto2006_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-11 -o dataout/guardianauto2005_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-05 -o dataout/independentauto2006_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-06 -o dataout/independentauto2006_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2005-12 -o dataout/guardianauto2005_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-07 -o dataout/independentauto2006_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-08 -o dataout/independentauto2006_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-01 -o dataout/guardianauto2006_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-09 -o dataout/independentauto2006_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-10 -o dataout/independentauto2006_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-02 -o dataout/guardianauto2006_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-11 -o dataout/independentauto2006_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2006-12 -o dataout/independentauto2006_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-03 -o dataout/guardianauto2006_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-01 -o dataout/independentauto2007_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-04 -o dataout/guardianauto2006_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-02 -o dataout/independentauto2007_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-03 -o dataout/independentauto2007_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-05 -o dataout/guardianauto2006_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-04 -o dataout/independentauto2007_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-05 -o dataout/independentauto2007_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-06 -o dataout/guardianauto2006_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-06 -o dataout/independentauto2007_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-07 -o dataout/independentauto2007_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-07 -o dataout/guardianauto2006_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-08 -o dataout/independentauto2007_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-09 -o dataout/independentauto2007_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-08 -o dataout/guardianauto2006_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-10 -o dataout/independentauto2007_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-11 -o dataout/independentauto2007_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-09 -o dataout/guardianauto2006_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2007-12 -o dataout/independentauto2007_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-01 -o dataout/independentauto2008_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-10 -o dataout/guardianauto2006_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-02 -o dataout/independentauto2008_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-03 -o dataout/independentauto2008_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-11 -o dataout/guardianauto2006_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-04 -o dataout/independentauto2008_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-05 -o dataout/independentauto2008_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2006-12 -o dataout/guardianauto2006_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-06 -o dataout/independentauto2008_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-07 -o dataout/independentauto2008_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-01 -o dataout/guardianauto2007_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-08 -o dataout/independentauto2008_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-09 -o dataout/independentauto2008_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-02 -o dataout/guardianauto2007_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-10 -o dataout/independentauto2008_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-11 -o dataout/independentauto2008_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-03 -o dataout/guardianauto2007_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2008-12 -o dataout/independentauto2008_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-04 -o dataout/guardianauto2007_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-01 -o dataout/independentauto2009_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-02 -o dataout/independentauto2009_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-05 -o dataout/guardianauto2007_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-03 -o dataout/independentauto2009_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-04 -o dataout/independentauto2009_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-05 -o dataout/independentauto2009_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-06 -o dataout/guardianauto2007_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-06 -o dataout/independentauto2009_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-07 -o dataout/guardianauto2007_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-07 -o dataout/independentauto2009_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-08 -o dataout/independentauto2009_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-08 -o dataout/guardianauto2007_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-09 -o dataout/independentauto2009_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-10 -o dataout/independentauto2009_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-09 -o dataout/guardianauto2007_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-11 -o dataout/independentauto2009_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2009-12 -o dataout/independentauto2009_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-01 -o dataout/independentauto2010_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-10 -o dataout/guardianauto2007_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-02 -o dataout/independentauto2010_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-03 -o dataout/independentauto2010_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-11 -o dataout/guardianauto2007_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-04 -o dataout/independentauto2010_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-05 -o dataout/independentauto2010_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2007-12 -o dataout/guardianauto2007_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-06 -o dataout/independentauto2010_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-07 -o dataout/independentauto2010_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-01 -o dataout/guardianauto2008_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-08 -o dataout/independentauto2010_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-09 -o dataout/independentauto2010_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-02 -o dataout/guardianauto2008_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-10 -o dataout/independentauto2010_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-11 -o dataout/independentauto2010_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-12 -o dataout/independentauto2010_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-03 -o dataout/guardianauto2008_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-01 -o dataout/independentauto2010_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-04 -o dataout/guardianauto2008_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-02 -o dataout/independentauto2010_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-03 -o dataout/independentauto2010_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-05 -o dataout/guardianauto2008_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-04 -o dataout/independentauto2010_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-05 -o dataout/independentauto2010_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-06 -o dataout/guardianauto2008_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-06 -o dataout/independentauto2010_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-07 -o dataout/independentauto2010_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-07 -o dataout/guardianauto2008_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-08 -o dataout/independentauto2010_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-09 -o dataout/independentauto2010_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-08 -o dataout/guardianauto2008_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-10 -o dataout/independentauto2010_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-11 -o dataout/independentauto2010_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2010-12 -o dataout/independentauto2010_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-09 -o dataout/guardianauto2008_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-01 -o dataout/independentauto2011_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-02 -o dataout/independentauto2011_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-10 -o dataout/guardianauto2008_10.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-03 -o dataout/independentauto2011_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-04 -o dataout/independentauto2011_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-11 -o dataout/guardianauto2008_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-05 -o dataout/independentauto2011_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-06 -o dataout/independentauto2011_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-07 -o dataout/independentauto2011_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2008-12 -o dataout/guardianauto2008_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-08 -o dataout/independentauto2011_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-01 -o dataout/guardianauto2009_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-09 -o dataout/independentauto2011_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-10 -o dataout/independentauto2011_10.json -t json
+###### NEW ANNUAL COMMANDS ######
+scrapy crawl independentauto -a yearmonth=2013-08 -o dataout/independentauto2017_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-02 -o dataout/guardianauto2009_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-03 -o dataout/guardianauto2009_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-04 -o dataout/guardianauto2009_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-05 -o dataout/guardianauto2009_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-06 -o dataout/guardianauto2009_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-07 -o dataout/guardianauto2009_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-08 -o dataout/guardianauto2009_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-09 -o dataout/guardianauto2009_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-10 -o dataout/guardianauto2009_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-11 -o dataout/guardianauto2009_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2009-12 -o dataout/guardianauto2009_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-01 -o dataout/guardianauto2010_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-02 -o dataout/guardianauto2010_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-03 -o dataout/guardianauto2010_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-04 -o dataout/guardianauto2010_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-05 -o dataout/guardianauto2010_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-06 -o dataout/guardianauto2010_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-07 -o dataout/guardianauto2010_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-08 -o dataout/guardianauto2010_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-09 -o dataout/guardianauto2010_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-10 -o dataout/guardianauto2010_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-11 -o dataout/guardianauto2010_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-12 -o dataout/guardianauto2010_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-01 -o dataout/guardianauto2010_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-02 -o dataout/guardianauto2010_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-03 -o dataout/guardianauto2010_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-04 -o dataout/guardianauto2010_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-05 -o dataout/guardianauto2010_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-06 -o dataout/guardianauto2010_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-07 -o dataout/guardianauto2010_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-08 -o dataout/guardianauto2010_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-09 -o dataout/guardianauto2010_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-10 -o dataout/guardianauto2010_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-11 -o dataout/guardianauto2010_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2010-12 -o dataout/guardianauto2010_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-01 -o dataout/guardianauto2011_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-02 -o dataout/guardianauto2011_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-03 -o dataout/guardianauto2011_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-04 -o dataout/guardianauto2011_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-05 -o dataout/guardianauto2011_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-06 -o dataout/guardianauto2011_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-07 -o dataout/guardianauto2011_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-08 -o dataout/guardianauto2011_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-09 -o dataout/guardianauto2011_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-10 -o dataout/guardianauto2011_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-11 -o dataout/guardianauto2011_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2011-12 -o dataout/guardianauto2011_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-01 -o dataout/guardianauto2012_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-02 -o dataout/guardianauto2012_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-03 -o dataout/guardianauto2012_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-04 -o dataout/guardianauto2012_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-05 -o dataout/guardianauto2012_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-06 -o dataout/guardianauto2012_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-07 -o dataout/guardianauto2012_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-08 -o dataout/guardianauto2012_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-09 -o dataout/guardianauto2012_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-10 -o dataout/guardianauto2012_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-11 -o dataout/guardianauto2012_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2012-12 -o dataout/guardianauto2012_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-01 -o dataout/guardianauto2013_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-02 -o dataout/guardianauto2013_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-03 -o dataout/guardianauto2013_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-04 -o dataout/guardianauto2013_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-05 -o dataout/guardianauto2013_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-06 -o dataout/guardianauto2013_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-07 -o dataout/guardianauto2013_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-08 -o dataout/guardianauto2013_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-09 -o dataout/guardianauto2013_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-10 -o dataout/guardianauto2013_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-11 -o dataout/guardianauto2013_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2013-12 -o dataout/guardianauto2013_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-01 -o dataout/guardianauto2014_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-02 -o dataout/guardianauto2014_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-03 -o dataout/guardianauto2014_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-04 -o dataout/guardianauto2014_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-05 -o dataout/guardianauto2014_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-06 -o dataout/guardianauto2014_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-07 -o dataout/guardianauto2014_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-08 -o dataout/guardianauto2014_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-09 -o dataout/guardianauto2014_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-10 -o dataout/guardianauto2014_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-11 -o dataout/guardianauto2014_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2014-12 -o dataout/guardianauto2014_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-01 -o dataout/mirrorauto2002_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-02 -o dataout/mirrorauto2002_02.json -t json
+
+scrapy crawl dailymailauto -a yearmonth=2000-01 -o dataout/dailymailauto2000_01.json -t json
+
+scrapy crawl dailymailauto -a yearmonth=2000-02 -o dataout/dailymailauto2000_02.json -t json
+
+scrapy crawl dailymailauto -a yearmonth=2005-01 -o dataout/dailymailauto2005_01.json -t json
+
+scrapy crawl dailymailauto -a yearmonth=2010-01 -o dataout/dailymailauto2010_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-03 -o dataout/mirrorauto2002_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-01 -o dataout/guardianauto2015_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-04 -o dataout/mirrorauto2002_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-02 -o dataout/guardianauto2015_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-05 -o dataout/mirrorauto2002_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-03 -o dataout/guardianauto2015_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-06 -o dataout/mirrorauto2002_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-04 -o dataout/guardianauto2015_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-07 -o dataout/mirrorauto2002_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-08 -o dataout/mirrorauto2002_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-05 -o dataout/guardianauto2015_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-09 -o dataout/mirrorauto2002_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-10 -o dataout/mirrorauto2002_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-06 -o dataout/guardianauto2015_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-11 -o dataout/mirrorauto2002_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-07 -o dataout/guardianauto2015_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2002-12 -o dataout/mirrorauto2002_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-01 -o dataout/mirrorauto2003_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-08 -o dataout/guardianauto2015_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-02 -o dataout/mirrorauto2003_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-09 -o dataout/guardianauto2015_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-03 -o dataout/mirrorauto2003_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-04 -o dataout/mirrorauto2003_04.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-10 -o dataout/guardianauto2015_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-05 -o dataout/mirrorauto2003_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-11 -o dataout/guardianauto2015_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-06 -o dataout/mirrorauto2003_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-07 -o dataout/mirrorauto2003_07.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2015-12 -o dataout/guardianauto2015_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-08 -o dataout/mirrorauto2003_08.json -t json
+
+scrapy crawl dailymailauto -a yearmonth=2011-01 -o dataout/dailymailauto2011_01.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-01 -o dataout/guardianauto2016_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-09 -o dataout/mirrorauto2003_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-10 -o dataout/mirrorauto2003_10.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-02 -o dataout/guardianauto2016_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-11 -o dataout/mirrorauto2003_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-03 -o dataout/guardianauto2016_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2003-12 -o dataout/mirrorauto2003_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-04 -o dataout/guardianauto2016_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-01 -o dataout/mirrorauto2004_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-02 -o dataout/mirrorauto2004_02.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-05 -o dataout/guardianauto2016_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-03 -o dataout/mirrorauto2004_03.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-06 -o dataout/guardianauto2016_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-04 -o dataout/mirrorauto2004_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-05 -o dataout/mirrorauto2004_05.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-07 -o dataout/guardianauto2016_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-06 -o dataout/mirrorauto2004_06.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-08 -o dataout/guardianauto2016_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-07 -o dataout/mirrorauto2004_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-08 -o dataout/mirrorauto2004_08.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-09 -o dataout/guardianauto2016_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-09 -o dataout/mirrorauto2004_09.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-10 -o dataout/guardianauto2016_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-10 -o dataout/mirrorauto2004_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-11 -o dataout/mirrorauto2004_11.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-11 -o dataout/guardianauto2016_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2004-12 -o dataout/mirrorauto2004_12.json -t json
+
+scrapy crawl guardianauto -a yearmonth=2016-12 -o dataout/guardianauto2016_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-01 -o dataout/mirrorauto2005_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-11 -o dataout/independentauto2011_11.json -t json
+
+scrapy crawl independentauto -a yearmonth=2011-12 -o dataout/independentauto2011_12.json -t json
+
+scrapy crawl independentauto -a yearmonth=2012-01 -o dataout/independentauto2012_01.json -t json
+
+scrapy crawl independentauto -a yearmonth=2012-02 -o dataout/independentauto2012_02.json -t json
+
+scrapy crawl independentauto -a yearmonth=2012-03 -o dataout/independentauto2012_03.json -t json
+
+scrapy crawl independentauto -a yearmonth=2012-04 -o dataout/independentauto2012_04.json -t json
+
+scrapy crawl independentauto -a yearmonth=2012-05 -o dataout/independentauto2012_05.json -t json
+
+scrapy crawl independentauto -a yearmonth=2012-06 -o dataout/independentauto2012_06.json -t json
+
+scrapy crawl independentauto -a yearmonth=2012-07 -o dataout/independentauto2012_07.json -t json
+
+scrapy crawl independentauto -a yearmonth=2012-08 -o dataout/independentauto2012_08.json -t json
+
+scrapy crawl independentauto -a yearmonth=2012-09 -o dataout/independentauto2012_09.json -t json
+
+scrapy crawl independentauto -a yearmonth=2012-10 -o dataout/independentauto2012_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-02 -o dataout/mirrorauto2005_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-03 -o dataout/mirrorauto2005_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-04 -o dataout/mirrorauto2005_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-05 -o dataout/mirrorauto2005_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-06 -o dataout/mirrorauto2005_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-07 -o dataout/mirrorauto2005_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-08 -o dataout/mirrorauto2005_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-09 -o dataout/mirrorauto2005_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-10 -o dataout/mirrorauto2005_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-11 -o dataout/mirrorauto2005_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2005-12 -o dataout/mirrorauto2005_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-01 -o dataout/mirrorauto2006_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-02 -o dataout/mirrorauto2006_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-03 -o dataout/mirrorauto2006_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-04 -o dataout/mirrorauto2006_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-05 -o dataout/mirrorauto2006_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-06 -o dataout/mirrorauto2006_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-07 -o dataout/mirrorauto2006_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-08 -o dataout/mirrorauto2006_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-09 -o dataout/mirrorauto2006_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-10 -o dataout/mirrorauto2006_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-11 -o dataout/mirrorauto2006_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2006-12 -o dataout/mirrorauto2006_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-01 -o dataout/mirrorauto2007_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-02 -o dataout/mirrorauto2007_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-03 -o dataout/mirrorauto2007_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-04 -o dataout/mirrorauto2007_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-05 -o dataout/mirrorauto2007_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-06 -o dataout/mirrorauto2007_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-07 -o dataout/mirrorauto2007_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-08 -o dataout/mirrorauto2007_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-09 -o dataout/mirrorauto2007_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-10 -o dataout/mirrorauto2007_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-11 -o dataout/mirrorauto2007_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2007-12 -o dataout/mirrorauto2007_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-01 -o dataout/mirrorauto2008_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-02 -o dataout/mirrorauto2008_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-03 -o dataout/mirrorauto2008_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-04 -o dataout/mirrorauto2008_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-05 -o dataout/mirrorauto2008_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-06 -o dataout/mirrorauto2008_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-07 -o dataout/mirrorauto2008_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-08 -o dataout/mirrorauto2008_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-09 -o dataout/mirrorauto2008_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-10 -o dataout/mirrorauto2008_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-11 -o dataout/mirrorauto2008_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2008-12 -o dataout/mirrorauto2008_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-01 -o dataout/mirrorauto2009_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-02 -o dataout/mirrorauto2009_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-03 -o dataout/mirrorauto2009_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-04 -o dataout/mirrorauto2009_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-05 -o dataout/mirrorauto2009_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-06 -o dataout/mirrorauto2009_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-07 -o dataout/mirrorauto2009_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-08 -o dataout/mirrorauto2009_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-09 -o dataout/mirrorauto2009_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-10 -o dataout/mirrorauto2009_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-11 -o dataout/mirrorauto2009_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2009-12 -o dataout/mirrorauto2009_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-01 -o dataout/mirrorauto2010_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-02 -o dataout/mirrorauto2010_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-03 -o dataout/mirrorauto2010_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-04 -o dataout/mirrorauto2010_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-05 -o dataout/mirrorauto2010_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-06 -o dataout/mirrorauto2010_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-07 -o dataout/mirrorauto2010_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-08 -o dataout/mirrorauto2010_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-09 -o dataout/mirrorauto2010_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-10 -o dataout/mirrorauto2010_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-11 -o dataout/mirrorauto2010_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-12 -o dataout/mirrorauto2010_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-01 -o dataout/mirrorauto2010_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-02 -o dataout/mirrorauto2010_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-03 -o dataout/mirrorauto2010_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-04 -o dataout/mirrorauto2010_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-05 -o dataout/mirrorauto2010_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-06 -o dataout/mirrorauto2010_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-07 -o dataout/mirrorauto2010_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-08 -o dataout/mirrorauto2010_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-09 -o dataout/mirrorauto2010_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-10 -o dataout/mirrorauto2010_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-11 -o dataout/mirrorauto2010_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2010-12 -o dataout/mirrorauto2010_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-01 -o dataout/mirrorauto2011_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-02 -o dataout/mirrorauto2011_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-03 -o dataout/mirrorauto2011_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-04 -o dataout/mirrorauto2011_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-05 -o dataout/mirrorauto2011_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-06 -o dataout/mirrorauto2011_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-07 -o dataout/mirrorauto2011_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-08 -o dataout/mirrorauto2011_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-09 -o dataout/mirrorauto2011_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-10 -o dataout/mirrorauto2011_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-11 -o dataout/mirrorauto2011_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2011-12 -o dataout/mirrorauto2011_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-01 -o dataout/mirrorauto2012_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-02 -o dataout/mirrorauto2012_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-03 -o dataout/mirrorauto2012_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-04 -o dataout/mirrorauto2012_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-05 -o dataout/mirrorauto2012_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-06 -o dataout/mirrorauto2012_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-07 -o dataout/mirrorauto2012_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-08 -o dataout/mirrorauto2012_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-09 -o dataout/mirrorauto2012_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-10 -o dataout/mirrorauto2012_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-11 -o dataout/mirrorauto2012_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2012-12 -o dataout/mirrorauto2012_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-01 -o dataout/mirrorauto2013_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-02 -o dataout/mirrorauto2013_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-03 -o dataout/mirrorauto2013_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-04 -o dataout/mirrorauto2013_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-05 -o dataout/mirrorauto2013_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-06 -o dataout/mirrorauto2013_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-07 -o dataout/mirrorauto2013_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-08 -o dataout/mirrorauto2013_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-09 -o dataout/mirrorauto2013_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-10 -o dataout/mirrorauto2013_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-11 -o dataout/mirrorauto2013_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2013-12 -o dataout/mirrorauto2013_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-01 -o dataout/mirrorauto2014_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-02 -o dataout/mirrorauto2014_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-03 -o dataout/mirrorauto2014_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-04 -o dataout/mirrorauto2014_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-05 -o dataout/mirrorauto2014_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-06 -o dataout/mirrorauto2014_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-07 -o dataout/mirrorauto2014_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-08 -o dataout/mirrorauto2014_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-09 -o dataout/mirrorauto2014_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-10 -o dataout/mirrorauto2014_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-11 -o dataout/mirrorauto2014_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2014-12 -o dataout/mirrorauto2014_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-01 -o dataout/mirrorauto2015_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-02 -o dataout/mirrorauto2015_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-03 -o dataout/mirrorauto2015_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-04 -o dataout/mirrorauto2015_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-05 -o dataout/mirrorauto2015_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-06 -o dataout/mirrorauto2015_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-07 -o dataout/mirrorauto2015_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-08 -o dataout/mirrorauto2015_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-09 -o dataout/mirrorauto2015_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-10 -o dataout/mirrorauto2015_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-11 -o dataout/mirrorauto2015_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2015-12 -o dataout/mirrorauto2015_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-01 -o dataout/mirrorauto2016_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-02 -o dataout/mirrorauto2016_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-03 -o dataout/mirrorauto2016_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-04 -o dataout/mirrorauto2016_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-05 -o dataout/mirrorauto2016_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-06 -o dataout/mirrorauto2016_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-07 -o dataout/mirrorauto2016_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-08 -o dataout/mirrorauto2016_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-09 -o dataout/mirrorauto2016_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-10 -o dataout/mirrorauto2016_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-11 -o dataout/mirrorauto2016_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2016-12 -o dataout/mirrorauto2016_12.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-01 -o dataout/mirrorauto2017_01.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-02 -o dataout/mirrorauto2017_02.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-03 -o dataout/mirrorauto2017_03.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-04 -o dataout/mirrorauto2017_04.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-05 -o dataout/mirrorauto2017_05.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-06 -o dataout/mirrorauto2017_06.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-07 -o dataout/mirrorauto2017_07.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-08 -o dataout/mirrorauto2017_08.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-09 -o dataout/mirrorauto2017_09.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-10 -o dataout/mirrorauto2017_10.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-11 -o dataout/mirrorauto2017_11.json -t json
+
+scrapy crawl mirrorauto -a yearmonth=2017-12 -o dataout/mirrorauto2017_12.json -t json
+
+cd .\Documents ewscrawler
+
+scrapy crawl hurriyet -a yearmonth="2016-01" -o dataout/hurriyet2016_01.json -t json
+
+cd .\Documents ewscrawler
+
+scrapy crawl hurriyet -a yearmonth="2017-01" -o dataout/hurriyet2017_01.json -t json
+
+cd .\Documents ewscrawler
+
+cd .\Documents ewscrawler
+
+scrapy crawl sabah -a yearmonth="2008-01" -o dataout/sabah2008_01.json -t json
+
+scrapy crawl sabah -a yearmonth="2008-02" -o dataout/sabah2008_02.json -t json
+
+scrapy crawl sabah -a yearmonth="2008-03" -o dataout/sabah2008_03.json -t json
+
+scrapy crawl sabah -a yearmonth="2008-04" -o dataout/sabah2008_04.json -t json
+
+scrapy crawl sabah -a yearmonth="2008-05" -o dataout/sabah2008_05.json -t json
+
+scrapy crawl sabah -a yearmonth="2008-06" -o dataout/sabah2008_06.json -t json
+
+scrapy crawl sabah -a yearmonth="2008-07" -o dataout/sabah2008_07.json -t json
+
+scrapy crawl sabah -a yearmonth="2008-08" -o dataout/sabah2008_08.json -t json
+
+scrapy crawl sabah -a yearmonth="2008-09" -o dataout/sabah2008_09.json -t json
+
+scrapy crawl sabah -a yearmonth="2008-10" -o dataout/sabah2008_10.json -t json
+
+scrapy crawl sabah -a yearmonth="2008-11" -o dataout/sabah2008_11.json -t json
+
+scrapy crawl sabah -a yearmonth="2008-12" -o dataout/sabah2008_12.json -t json
+
+cd .\Documents ewscrawler
+
+scrapy crawl cumhuriyet -a begin="19001" -a end="19200" -o dataout/cumhuriyet19001.json -t json
+
+scrapy crawl cumhuriyet -a begin="13001" -a end="13200" -o dataout/cumhuriyet13001.json -t json
+
+scrapy crawl cumhuriyet -a begin="28601" -a end="28800" -o dataout/cumhuriyet28601.json -t json
+
+scrapy crawl cumhuriyet -a begin="33001" -a end="33200" -o dataout/cumhuriyet33001.json -t json
+
+scrapy crawl cumhuriyet -a begin="23401" -a end="23600" -o dataout/cumhuriyet23401.json -t json
+
+scrapy crawl cumhuriyet -a begin="8401" -a end="8600" -o dataout/cumhuriyet8401.json -t json
+
+scrapy crawl cumhuriyet -a begin="12601" -a end="12800" -o dataout/cumhuriyet12601.json -t json
+
+scrapy crawl cumhuriyet -a begin="2401" -a end="2600" -o dataout/cumhuriyet2401.json -t json
+
+scrapy crawl cumhuriyet -a begin="35201" -a end="35400" -o dataout/cumhuriyet35201.json -t json
+
+scrapy crawl cumhuriyet -a begin="27601" -a end="27800" -o dataout/cumhuriyet27601.json -t json
+
+scrapy crawl cumhuriyet -a begin="10401" -a end="10600" -o dataout/cumhuriyet10401.json -t json
+
+scrapy crawl cumhuriyet -a begin="22601" -a end="22800" -o dataout/cumhuriyet22601.json -t json
+
+scrapy crawl cumhuriyet -a begin="11001" -a end="11200" -o dataout/cumhuriyet11001.json -t json
+
+scrapy crawl cumhuriyet -a begin="25601" -a end="25800" -o dataout/cumhuriyet25601.json -t json
+
+scrapy crawl cumhuriyet -a begin="29801" -a end="30000" -o dataout/cumhuriyet29801.json -t json
+
+scrapy crawl cumhuriyet -a begin="17001" -a end="17200" -o dataout/cumhuriyet17001.json -t json
+
+scrapy crawl cumhuriyet -a begin="17401" -a end="17600" -o dataout/cumhuriyet17401.json -t json
+
+scrapy crawl cumhuriyet -a begin="801" -a end="1000" -o dataout/cumhuriyet801.json -t json
+
+scrapy crawl cumhuriyet -a begin="17801" -a end="18000" -o dataout/cumhuriyet17801.json -t json
+
+scrapy crawl cumhuriyet -a begin="19801" -a end="20000" -o dataout/cumhuriyet19801.json -t json
+
+scrapy crawl cumhuriyet -a begin="28801" -a end="29000" -o dataout/cumhuriyet28801.json -t json
+
+scrapy crawl cumhuriyet -a begin="4601" -a end="4800" -o dataout/cumhuriyet4601.json -t json
+
+scrapy crawl cumhuriyet -a begin="30601" -a end="30800" -o dataout/cumhuriyet30601.json -t json
+
+scrapy crawl cumhuriyet -a begin="4801" -a end="5000" -o dataout/cumhuriyet4801.json -t json
+
+scrapy crawl cumhuriyet -a begin="8201" -a end="8400" -o dataout/cumhuriyet8201.json -t json
+
+scrapy crawl cumhuriyet -a begin="32001" -a end="32200" -o dataout/cumhuriyet32001.json -t json
+
+scrapy crawl cumhuriyet -a begin="401" -a end="600" -o dataout/cumhuriyet401.json -t json
+
+scrapy crawl cumhuriyet -a begin="18001" -a end="18200" -o dataout/cumhuriyet18001.json -t json
+
+scrapy crawl cumhuriyet -a begin="601" -a end="800" -o dataout/cumhuriyet601.json -t json
+
+scrapy crawl cumhuriyet -a begin="9201" -a end="9400" -o dataout/cumhuriyet9201.json -t json
+
+scrapy crawl cumhuriyet -a begin="7801" -a end="8000" -o dataout/cumhuriyet7801.json -t json
+
+scrapy crawl cumhuriyet -a begin="21601" -a end="21800" -o dataout/cumhuriyet21601.json -t json
+
+scrapy crawl cumhuriyet -a begin="28201" -a end="28400" -o dataout/cumhuriyet28201.json -t json
+
+scrapy crawl cumhuriyet -a begin="19401" -a end="19600" -o dataout/cumhuriyet19401.json -t json
+
+scrapy crawl cumhuriyet -a begin="1" -a end="200" -o dataout/cumhuriyet1.json -t json
+
+scrapy crawl cumhuriyet -a begin="3201" -a end="3400" -o dataout/cumhuriyet3201.json -t json
+
+scrapy crawl cumhuriyet -a begin="5601" -a end="5800" -o dataout/cumhuriyet5601.json -t json
+
+scrapy crawl cumhuriyet -a begin="3601" -a end="3800" -o dataout/cumhuriyet3601.json -t json
+
+scrapy crawl cumhuriyet -a begin="23001" -a end="23200" -o dataout/cumhuriyet23001.json -t json
+
+scrapy crawl cumhuriyet -a begin="30201" -a end="30400" -o dataout/cumhuriyet30201.json -t json
+
+scrapy crawl cumhuriyet -a begin="34201" -a end="34400" -o dataout/cumhuriyet34201.json -t json
+
+scrapy crawl cumhuriyet -a begin="5801" -a end="6000" -o dataout/cumhuriyet5801.json -t json
+
+scrapy crawl cumhuriyet -a begin="14201" -a end="14400" -o dataout/cumhuriyet14201.json -t json
+
+scrapy crawl cumhuriyet -a begin="9001" -a end="9200" -o dataout/cumhuriyet9001.json -t json
+
+scrapy crawl cumhuriyet -a begin="1001" -a end="1200" -o dataout/cumhuriyet1001.json -t json
+
+scrapy crawl cumhuriyet -a begin="17601" -a end="17800" -o dataout/cumhuriyet17601.json -t json
+
+scrapy crawl cumhuriyet -a begin="2001" -a end="2200" -o dataout/cumhuriyet2001.json -t json
+
+scrapy crawl cumhuriyet -a begin="18201" -a end="18400" -o dataout/cumhuriyet18201.json -t json
+
+scrapy crawl cumhuriyet -a begin="31601" -a end="31800" -o dataout/cumhuriyet31601.json -t json
+
+scrapy crawl cumhuriyet -a begin="14401" -a end="14600" -o dataout/cumhuriyet14401.json -t json
+
+scrapy crawl cumhuriyet -a begin="7401" -a end="7600" -o dataout/cumhuriyet7401.json -t json
+
+scrapy crawl cumhuriyet -a begin="32201" -a end="32400" -o dataout/cumhuriyet32201.json -t json
+
+scrapy crawl cumhuriyet -a begin="6001" -a end="6200" -o dataout/cumhuriyet6001.json -t json
+
+scrapy crawl cumhuriyet -a begin="201" -a end="400" -o dataout/cumhuriyet201.json -t json
+
+scrapy crawl cumhuriyet -a begin="22001" -a end="22200" -o dataout/cumhuriyet22001.json -t json
+
+scrapy crawl cumhuriyet -a begin="35601" -a end="35800" -o dataout/cumhuriyet35601.json -t json
+
+scrapy crawl cumhuriyet -a begin="24401" -a end="24600" -o dataout/cumhuriyet24401.json -t json
+
+scrapy crawl cumhuriyet -a begin="12001" -a end="12200" -o dataout/cumhuriyet12001.json -t json
+
+scrapy crawl cumhuriyet -a begin="25201" -a end="25400" -o dataout/cumhuriyet25201.json -t json
+
+scrapy crawl cumhuriyet -a begin="24201" -a end="24400" -o dataout/cumhuriyet24201.json -t json
+
+scrapy crawl cumhuriyet -a begin="11401" -a end="11600" -o dataout/cumhuriyet11401.json -t json
+
+scrapy crawl cumhuriyet -a begin="13801" -a end="14000" -o dataout/cumhuriyet13801.json -t json
+
+scrapy crawl cumhuriyet -a begin="34801" -a end="35000" -o dataout/cumhuriyet34801.json -t json
+
+scrapy crawl cumhuriyet -a begin="10001" -a end="10200" -o dataout/cumhuriyet10001.json -t json
+
+scrapy crawl cumhuriyet -a begin="6201" -a end="6400" -o dataout/cumhuriyet6201.json -t json
+
+scrapy crawl cumhuriyet -a begin="16601" -a end="16800" -o dataout/cumhuriyet16601.json -t json
+
+scrapy crawl cumhuriyet -a begin="28001" -a end="28200" -o dataout/cumhuriyet28001.json -t json
+
+scrapy crawl cumhuriyet -a begin="19601" -a end="19800" -o dataout/cumhuriyet19601.json -t json
+
+scrapy crawl cumhuriyet -a begin="18801" -a end="19000" -o dataout/cumhuriyet18801.json -t json
+
+scrapy crawl cumhuriyet -a begin="26401" -a end="26600" -o dataout/cumhuriyet26401.json -t json
+
+scrapy crawl cumhuriyet -a begin="33201" -a end="33400" -o dataout/cumhuriyet33201.json -t json
+
+scrapy crawl cumhuriyet -a begin="16201" -a end="16400" -o dataout/cumhuriyet16201.json -t json
+
+scrapy crawl cumhuriyet -a begin="15401" -a end="15600" -o dataout/cumhuriyet15401.json -t json
+
+scrapy crawl cumhuriyet -a begin="4201" -a end="4400" -o dataout/cumhuriyet4201.json -t json
+
+scrapy crawl cumhuriyet -a begin="14601" -a end="14800" -o dataout/cumhuriyet14601.json -t json
+
+scrapy crawl cumhuriyet -a begin="20201" -a end="20400" -o dataout/cumhuriyet20201.json -t json
+
+scrapy crawl cumhuriyet -a begin="1801" -a end="2000" -o dataout/cumhuriyet1801.json -t json
+
+scrapy crawl cumhuriyet -a begin="31401" -a end="31600" -o dataout/cumhuriyet31401.json -t json
+
+scrapy crawl cumhuriyet -a begin="12401" -a end="12600" -o dataout/cumhuriyet12401.json -t json
+
+scrapy crawl cumhuriyet -a begin="32401" -a end="32600" -o dataout/cumhuriyet32401.json -t json
+
+scrapy crawl cumhuriyet -a begin="32801" -a end="33000" -o dataout/cumhuriyet32801.json -t json
+
+scrapy crawl cumhuriyet -a begin="30001" -a end="30200" -o dataout/cumhuriyet30001.json -t json
+
+scrapy crawl cumhuriyet -a begin="20801" -a end="21000" -o dataout/cumhuriyet20801.json -t json
+
+scrapy crawl cumhuriyet -a begin="23801" -a end="24000" -o dataout/cumhuriyet23801.json -t json
+
+scrapy crawl cumhuriyet -a begin="2601" -a end="2800" -o dataout/cumhuriyet2601.json -t json
+
+scrapy crawl cumhuriyet -a begin="33801" -a end="34000" -o dataout/cumhuriyet33801.json -t json
+
+scrapy crawl cumhuriyet -a begin="8601" -a end="8800" -o dataout/cumhuriyet8601.json -t json
+
+scrapy crawl cumhuriyet -a begin="34401" -a end="34600" -o dataout/cumhuriyet34401.json -t json
+
+scrapy crawl cumhuriyet -a begin="3801" -a end="4000" -o dataout/cumhuriyet3801.json -t json
+
+scrapy crawl cumhuriyet -a begin="17201" -a end="17400" -o dataout/cumhuriyet17201.json -t json
+
+scrapy crawl cumhuriyet -a begin="18601" -a end="18800" -o dataout/cumhuriyet18601.json -t json
+
+scrapy crawl cumhuriyet -a begin="21401" -a end="21600" -o dataout/cumhuriyet21401.json -t json
+
+scrapy crawl cumhuriyet -a begin="10801" -a end="11000" -o dataout/cumhuriyet10801.json -t json
+
+scrapy crawl cumhuriyet -a begin="25401" -a end="25600" -o dataout/cumhuriyet25401.json -t json
+
+scrapy crawl cumhuriyet -a begin="4401" -a end="4600" -o dataout/cumhuriyet4401.json -t json
+
+scrapy crawl cumhuriyet -a begin="12201" -a end="12400" -o dataout/cumhuriyet12201.json -t json
+
+scrapy crawl cumhuriyet -a begin="35801" -a end="36000" -o dataout/cumhuriyet35801.json -t json
+
+scrapy crawl cumhuriyet -a begin="24001" -a end="24200" -o dataout/cumhuriyet24001.json -t json
+
+scrapy crawl cumhuriyet -a begin="15801" -a end="16000" -o dataout/cumhuriyet15801.json -t json
+
+scrapy crawl cumhuriyet -a begin="10601" -a end="10800" -o dataout/cumhuriyet10601.json -t json
+
+scrapy crawl cumhuriyet -a begin="7201" -a end="7400" -o dataout/cumhuriyet7201.json -t json
+
+scrapy crawl cumhuriyet -a begin="33401" -a end="33600" -o dataout/cumhuriyet33401.json -t json
+
+scrapy crawl cumhuriyet -a begin="22201" -a end="22400" -o dataout/cumhuriyet22201.json -t json
+
+scrapy crawl cumhuriyet -a begin="20601" -a end="20800" -o dataout/cumhuriyet20601.json -t json
+
+scrapy crawl cumhuriyet -a begin="10201" -a end="10400" -o dataout/cumhuriyet10201.json -t json
+
+scrapy crawl cumhuriyet -a begin="15601" -a end="15800" -o dataout/cumhuriyet15601.json -t json
+
+scrapy crawl cumhuriyet -a begin="6801" -a end="7000" -o dataout/cumhuriyet6801.json -t json
+
+scrapy crawl cumhuriyet -a begin="11801" -a end="12000" -o dataout/cumhuriyet11801.json -t json
+
+cd .\Documents ewscrawler
+
+scrapy crawl cumhuriyet -a begin="26601" -a end="26800" -o dataout/cumhuriyet26601.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-01" -o dataout/hurriyet1999_01.json -t json
+
+scrapy crawl cumhuriyet -a begin="3001" -a end="3200" -o dataout/cumhuriyet3001.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-02" -o dataout/hurriyet1999_02.json -t json
+
+scrapy crawl cumhuriyet -a begin="27401" -a end="27600" -o dataout/cumhuriyet27401.json -t json
+
+scrapy crawl cumhuriyet -a begin="9801" -a end="10000" -o dataout/cumhuriyet9801.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-03" -o dataout/hurriyet1999_03.json -t json
+
+scrapy crawl cumhuriyet -a begin="1201" -a end="1400" -o dataout/cumhuriyet1201.json -t json
+
+scrapy crawl cumhuriyet -a begin="34601" -a end="34800" -o dataout/cumhuriyet34601.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-04" -o dataout/hurriyet1999_04.json -t json
+
+scrapy crawl cumhuriyet -a begin="22801" -a end="23000" -o dataout/cumhuriyet22801.json -t json
+
+scrapy crawl cumhuriyet -a begin="6601" -a end="6800" -o dataout/cumhuriyet6601.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-05" -o dataout/hurriyet1999_05.json -t json
+
+scrapy crawl cumhuriyet -a begin="13401" -a end="13600" -o dataout/cumhuriyet13401.json -t json
+
+scrapy crawl cumhuriyet -a begin="30401" -a end="30600" -o dataout/cumhuriyet30401.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-06" -o dataout/hurriyet1999_06.json -t json
+
+scrapy crawl cumhuriyet -a begin="23601" -a end="23800" -o dataout/cumhuriyet23601.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-07" -o dataout/hurriyet1999_07.json -t json
+
+scrapy crawl cumhuriyet -a begin="5201" -a end="5400" -o dataout/cumhuriyet5201.json -t json
+
+scrapy crawl cumhuriyet -a begin="21201" -a end="21400" -o dataout/cumhuriyet21201.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-08" -o dataout/hurriyet1999_08.json -t json
+
+scrapy crawl cumhuriyet -a begin="7001" -a end="7200" -o dataout/cumhuriyet7001.json -t json
+
+scrapy crawl cumhuriyet -a begin="14801" -a end="15000" -o dataout/cumhuriyet14801.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-09" -o dataout/hurriyet1999_09.json -t json
+
+scrapy crawl cumhuriyet -a begin="9401" -a end="9600" -o dataout/cumhuriyet9401.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-10" -o dataout/hurriyet1999_10.json -t json
+
+scrapy crawl cumhuriyet -a begin="25001" -a end="25200" -o dataout/cumhuriyet25001.json -t json
+
+scrapy crawl cumhuriyet -a begin="11201" -a end="11400" -o dataout/cumhuriyet11201.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-11" -o dataout/hurriyet1999_11.json -t json
+
+scrapy crawl cumhuriyet -a begin="31001" -a end="31200" -o dataout/cumhuriyet31001.json -t json
+
+scrapy crawl hurriyet -a yearmonth="1999-12" -o dataout/hurriyet1999_12.json -t json
+
+scrapy crawl cumhuriyet -a begin="11601" -a end="11800" -o dataout/cumhuriyet11601.json -t json
+
+scrapy crawl cumhuriyet -a begin="1401" -a end="1600" -o dataout/cumhuriyet1401.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-01" -o dataout/hurriyet2000_01.json -t json
+
+scrapy crawl cumhuriyet -a begin="23201" -a end="23400" -o dataout/cumhuriyet23201.json -t json
+
+scrapy crawl cumhuriyet -a begin="19201" -a end="19400" -o dataout/cumhuriyet19201.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-02" -o dataout/hurriyet2000_02.json -t json
+
+scrapy crawl cumhuriyet -a begin="3401" -a end="3600" -o dataout/cumhuriyet3401.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-03" -o dataout/hurriyet2000_03.json -t json
+
+scrapy crawl cumhuriyet -a begin="24601" -a end="24800" -o dataout/cumhuriyet24601.json -t json
+
+scrapy crawl cumhuriyet -a begin="26801" -a end="27000" -o dataout/cumhuriyet26801.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-04" -o dataout/hurriyet2000_04.json -t json
+
+scrapy crawl cumhuriyet -a begin="27801" -a end="28000" -o dataout/cumhuriyet27801.json -t json
+
+scrapy crawl cumhuriyet -a begin="29001" -a end="29200" -o dataout/cumhuriyet29001.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-05" -o dataout/hurriyet2000_05.json -t json
+
+scrapy crawl cumhuriyet -a begin="26201" -a end="26400" -o dataout/cumhuriyet26201.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-06" -o dataout/hurriyet2000_06.json -t json
+
+scrapy crawl cumhuriyet -a begin="6401" -a end="6600" -o dataout/cumhuriyet6401.json -t json
+
+scrapy crawl cumhuriyet -a begin="35401" -a end="35600" -o dataout/cumhuriyet35401.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-07" -o dataout/hurriyet2000_07.json -t json
+
+scrapy crawl cumhuriyet -a begin="33601" -a end="33800" -o dataout/cumhuriyet33601.json -t json
+
+scrapy crawl cumhuriyet -a begin="5401" -a end="5600" -o dataout/cumhuriyet5401.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-08" -o dataout/hurriyet2000_08.json -t json
+
+scrapy crawl cumhuriyet -a begin="30801" -a end="31000" -o dataout/cumhuriyet30801.json -t json
+
+scrapy crawl cumhuriyet -a begin="15001" -a end="15200" -o dataout/cumhuriyet15001.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-09" -o dataout/hurriyet2000_09.json -t json
+
+scrapy crawl cumhuriyet -a begin="29601" -a end="29800" -o dataout/cumhuriyet29601.json -t json
+
+scrapy crawl cumhuriyet -a begin="28401" -a end="28600" -o dataout/cumhuriyet28401.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-10" -o dataout/hurriyet2000_10.json -t json
+
+scrapy crawl cumhuriyet -a begin="24801" -a end="25000" -o dataout/cumhuriyet24801.json -t json
+
+scrapy crawl cumhuriyet -a begin="20001" -a end="20200" -o dataout/cumhuriyet20001.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-11" -o dataout/hurriyet2000_11.json -t json
+
+scrapy crawl cumhuriyet -a begin="36401" -a end="36600" -o dataout/cumhuriyet36401.json -t json
+
+scrapy crawl cumhuriyet -a begin="4001" -a end="4200" -o dataout/cumhuriyet4001.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2000-12" -o dataout/hurriyet2000_12.json -t json
+
+scrapy crawl cumhuriyet -a begin="36001" -a end="36200" -o dataout/cumhuriyet36001.json -t json
+
+scrapy crawl cumhuriyet -a begin="16401" -a end="16600" -o dataout/cumhuriyet16401.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-01" -o dataout/hurriyet2001_01.json -t json
+
+scrapy crawl cumhuriyet -a begin="13201" -a end="13400" -o dataout/cumhuriyet13201.json -t json
+
+scrapy crawl cumhuriyet -a begin="15201" -a end="15400" -o dataout/cumhuriyet15201.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-02" -o dataout/hurriyet2001_02.json -t json
+
+scrapy crawl cumhuriyet -a begin="31801" -a end="32000" -o dataout/cumhuriyet31801.json -t json
+
+scrapy crawl cumhuriyet -a begin="12801" -a end="13000" -o dataout/cumhuriyet12801.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-03" -o dataout/hurriyet2001_03.json -t json
+
+scrapy crawl cumhuriyet -a begin="20401" -a end="20600" -o dataout/cumhuriyet20401.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-04" -o dataout/hurriyet2001_04.json -t json
+
+scrapy crawl cumhuriyet -a begin="31201" -a end="31400" -o dataout/cumhuriyet31201.json -t json
+
+scrapy crawl cumhuriyet -a begin="26001" -a end="26200" -o dataout/cumhuriyet26001.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-05" -o dataout/hurriyet2001_05.json -t json
+
+scrapy crawl cumhuriyet -a begin="7601" -a end="7800" -o dataout/cumhuriyet7601.json -t json
+
+scrapy crawl cumhuriyet -a begin="8001" -a end="8200" -o dataout/cumhuriyet8001.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-06" -o dataout/hurriyet2001_06.json -t json
+
+scrapy crawl cumhuriyet -a begin="16801" -a end="17000" -o dataout/cumhuriyet16801.json -t json
+
+scrapy crawl cumhuriyet -a begin="16001" -a end="16200" -o dataout/cumhuriyet16001.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-07" -o dataout/hurriyet2001_07.json -t json
+
+scrapy crawl cumhuriyet -a begin="21001" -a end="21200" -o dataout/cumhuriyet21001.json -t json
+
+scrapy crawl cumhuriyet -a begin="2801" -a end="3000" -o dataout/cumhuriyet2801.json -t json
+
+scrapy crawl cumhuriyet -a begin="9601" -a end="9800" -o dataout/cumhuriyet9601.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-08" -o dataout/hurriyet2001_08.json -t json
+
+scrapy crawl cumhuriyet -a begin="14001" -a end="14200" -o dataout/cumhuriyet14001.json -t json
+
+scrapy crawl cumhuriyet -a begin="34001" -a end="34200" -o dataout/cumhuriyet34001.json -t json
+
+scrapy crawl cumhuriyet -a begin="35001" -a end="35200" -o dataout/cumhuriyet35001.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-09" -o dataout/hurriyet2001_09.json -t json
+
+scrapy crawl cumhuriyet -a begin="27001" -a end="27200" -o dataout/cumhuriyet27001.json -t json
+
+scrapy crawl cumhuriyet -a begin="8801" -a end="9000" -o dataout/cumhuriyet8801.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-10" -o dataout/hurriyet2001_10.json -t json
+
+scrapy crawl cumhuriyet -a begin="1601" -a end="1800" -o dataout/cumhuriyet1601.json -t json
+
+scrapy crawl cumhuriyet -a begin="21801" -a end="22000" -o dataout/cumhuriyet21801.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-11" -o dataout/hurriyet2001_11.json -t json
+
+scrapy crawl cumhuriyet -a begin="18401" -a end="18600" -o dataout/cumhuriyet18401.json -t json
+
+scrapy crawl cumhuriyet -a begin="2201" -a end="2400" -o dataout/cumhuriyet2201.json -t json
+
+scrapy crawl cumhuriyet -a begin="36201" -a end="36400" -o dataout/cumhuriyet36201.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2001-12" -o dataout/hurriyet2001_12.json -t json
+
+scrapy crawl cumhuriyet -a begin="5001" -a end="5200" -o dataout/cumhuriyet5001.json -t json
+
+scrapy crawl cumhuriyet -a begin="27201" -a end="27400" -o dataout/cumhuriyet27201.json -t json
+
+scrapy crawl cumhuriyet -a begin="29201" -a end="29400" -o dataout/cumhuriyet29201.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-01" -o dataout/hurriyet2002_01.json -t json
+
+scrapy crawl cumhuriyet -a begin="32601" -a end="32800" -o dataout/cumhuriyet32601.json -t json
+
+scrapy crawl cumhuriyet -a begin="13601" -a end="13800" -o dataout/cumhuriyet13601.json -t json
+
+scrapy crawl cumhuriyet -a begin="25801" -a end="26000" -o dataout/cumhuriyet25801.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-02" -o dataout/hurriyet2002_02.json -t json
+
+scrapy crawl cumhuriyet -a begin="29401" -a end="29600" -o dataout/cumhuriyet29401.json -t json
+
+scrapy crawl cumhuriyet -a begin="22401" -a end="22600" -o dataout/cumhuriyet22401.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-03" -o dataout/hurriyet2002_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-04" -o dataout/hurriyet2002_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-05" -o dataout/hurriyet2002_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-06" -o dataout/hurriyet2002_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-07" -o dataout/hurriyet2002_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-08" -o dataout/hurriyet2002_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-09" -o dataout/hurriyet2002_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-10" -o dataout/hurriyet2002_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-11" -o dataout/hurriyet2002_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2002-12" -o dataout/hurriyet2002_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-01" -o dataout/hurriyet2003_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-02" -o dataout/hurriyet2003_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-03" -o dataout/hurriyet2003_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-04" -o dataout/hurriyet2003_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-05" -o dataout/hurriyet2003_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-06" -o dataout/hurriyet2003_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-07" -o dataout/hurriyet2003_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-08" -o dataout/hurriyet2003_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-09" -o dataout/hurriyet2003_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-10" -o dataout/hurriyet2003_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-11" -o dataout/hurriyet2003_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2003-12" -o dataout/hurriyet2003_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-01" -o dataout/hurriyet2004_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-02" -o dataout/hurriyet2004_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-03" -o dataout/hurriyet2004_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-04" -o dataout/hurriyet2004_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-05" -o dataout/hurriyet2004_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-06" -o dataout/hurriyet2004_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-07" -o dataout/hurriyet2004_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-08" -o dataout/hurriyet2004_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-09" -o dataout/hurriyet2004_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-10" -o dataout/hurriyet2004_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-11" -o dataout/hurriyet2004_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2004-12" -o dataout/hurriyet2004_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-01" -o dataout/hurriyet2005_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-02" -o dataout/hurriyet2005_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-03" -o dataout/hurriyet2005_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-04" -o dataout/hurriyet2005_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-05" -o dataout/hurriyet2005_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-06" -o dataout/hurriyet2005_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-07" -o dataout/hurriyet2005_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-08" -o dataout/hurriyet2005_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-09" -o dataout/hurriyet2005_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-10" -o dataout/hurriyet2005_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-11" -o dataout/hurriyet2005_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2005-12" -o dataout/hurriyet2005_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-01" -o dataout/hurriyet2006_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-02" -o dataout/hurriyet2006_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-03" -o dataout/hurriyet2006_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-04" -o dataout/hurriyet2006_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-05" -o dataout/hurriyet2006_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-06" -o dataout/hurriyet2006_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-07" -o dataout/hurriyet2006_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-08" -o dataout/hurriyet2006_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-09" -o dataout/hurriyet2006_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-10" -o dataout/hurriyet2006_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-11" -o dataout/hurriyet2006_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2006-12" -o dataout/hurriyet2006_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-01" -o dataout/hurriyet2007_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-02" -o dataout/hurriyet2007_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-03" -o dataout/hurriyet2007_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-04" -o dataout/hurriyet2007_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-05" -o dataout/hurriyet2007_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-06" -o dataout/hurriyet2007_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-07" -o dataout/hurriyet2007_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-08" -o dataout/hurriyet2007_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-09" -o dataout/hurriyet2007_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-10" -o dataout/hurriyet2007_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-11" -o dataout/hurriyet2007_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2007-12" -o dataout/hurriyet2007_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-01" -o dataout/hurriyet2008_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-02" -o dataout/hurriyet2008_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-03" -o dataout/hurriyet2008_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-04" -o dataout/hurriyet2008_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-05" -o dataout/hurriyet2008_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-06" -o dataout/hurriyet2008_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-07" -o dataout/hurriyet2008_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-08" -o dataout/hurriyet2008_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-09" -o dataout/hurriyet2008_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-10" -o dataout/hurriyet2008_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-11" -o dataout/hurriyet2008_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2008-12" -o dataout/hurriyet2008_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-01" -o dataout/hurriyet2009_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-02" -o dataout/hurriyet2009_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-03" -o dataout/hurriyet2009_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-04" -o dataout/hurriyet2009_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-05" -o dataout/hurriyet2009_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-06" -o dataout/hurriyet2009_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-07" -o dataout/hurriyet2009_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-08" -o dataout/hurriyet2009_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-09" -o dataout/hurriyet2009_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-10" -o dataout/hurriyet2009_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-11" -o dataout/hurriyet2009_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2009-12" -o dataout/hurriyet2009_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-01" -o dataout/hurriyet2010_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-02" -o dataout/hurriyet2010_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-03" -o dataout/hurriyet2010_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-04" -o dataout/hurriyet2010_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-05" -o dataout/hurriyet2010_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-06" -o dataout/hurriyet2010_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-07" -o dataout/hurriyet2010_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-08" -o dataout/hurriyet2010_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-09" -o dataout/hurriyet2010_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-10" -o dataout/hurriyet2010_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-11" -o dataout/hurriyet2010_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2010-12" -o dataout/hurriyet2010_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-01" -o dataout/hurriyet2011_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-02" -o dataout/hurriyet2011_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-03" -o dataout/hurriyet2011_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-04" -o dataout/hurriyet2011_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-05" -o dataout/hurriyet2011_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-06" -o dataout/hurriyet2011_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-07" -o dataout/hurriyet2011_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-08" -o dataout/hurriyet2011_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-09" -o dataout/hurriyet2011_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-10" -o dataout/hurriyet2011_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-11" -o dataout/hurriyet2011_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2011-12" -o dataout/hurriyet2011_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-01" -o dataout/hurriyet2012_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-02" -o dataout/hurriyet2012_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-03" -o dataout/hurriyet2012_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-04" -o dataout/hurriyet2012_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-05" -o dataout/hurriyet2012_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-06" -o dataout/hurriyet2012_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-07" -o dataout/hurriyet2012_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-08" -o dataout/hurriyet2012_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-09" -o dataout/hurriyet2012_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-10" -o dataout/hurriyet2012_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-11" -o dataout/hurriyet2012_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2012-12" -o dataout/hurriyet2012_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-01" -o dataout/hurriyet2013_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-02" -o dataout/hurriyet2013_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-03" -o dataout/hurriyet2013_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-04" -o dataout/hurriyet2013_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-05" -o dataout/hurriyet2013_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-06" -o dataout/hurriyet2013_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-07" -o dataout/hurriyet2013_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-08" -o dataout/hurriyet2013_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-09" -o dataout/hurriyet2013_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-10" -o dataout/hurriyet2013_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-11" -o dataout/hurriyet2013_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2013-12" -o dataout/hurriyet2013_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-01" -o dataout/hurriyet2014_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-02" -o dataout/hurriyet2014_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-03" -o dataout/hurriyet2014_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-04" -o dataout/hurriyet2014_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-05" -o dataout/hurriyet2014_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-06" -o dataout/hurriyet2014_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-07" -o dataout/hurriyet2014_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-08" -o dataout/hurriyet2014_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-09" -o dataout/hurriyet2014_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-10" -o dataout/hurriyet2014_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-11" -o dataout/hurriyet2014_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2014-12" -o dataout/hurriyet2014_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-01" -o dataout/hurriyet2015_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-02" -o dataout/hurriyet2015_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-03" -o dataout/hurriyet2015_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-04" -o dataout/hurriyet2015_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-05" -o dataout/hurriyet2015_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-06" -o dataout/hurriyet2015_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-07" -o dataout/hurriyet2015_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-08" -o dataout/hurriyet2015_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-09" -o dataout/hurriyet2015_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-10" -o dataout/hurriyet2015_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-11" -o dataout/hurriyet2015_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2015-12" -o dataout/hurriyet2015_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2016-01" -o dataout/hurriyet2016_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2016-02" -o dataout/hurriyet2016_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2016-03" -o dataout/hurriyet2016_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2016-04" -o dataout/hurriyet2016_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2016-05" -o dataout/hurriyet2016_05.json -t json
+
+scrapy crawl konya -o konya.json -t json
+
+cd .\Documents ewscrawler
+
+scrapy crawl hurriyet -a yearmonth="2017-01" -o dataout/hurriyet2017_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2017-02" -o dataout/hurriyet2017_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2017-03" -o dataout/hurriyet2017_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2017-04" -o dataout/hurriyet2017_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2017-05" -o dataout/hurriyet2017_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2017-06" -o dataout/hurriyet2017_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2017-07" -o dataout/hurriyet2017_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2017-08" -o dataout/hurriyet2017_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2017-09" -o dataout/hurriyet2017_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2017-10" -o dataout/hurriyet2017_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2017-11" -o dataout/hurriyet2017_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2017-12" -o dataout/hurriyet2017_12.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-01" -o dataout/hurriyet2018_01.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-02" -o dataout/hurriyet2018_02.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-03" -o dataout/hurriyet2018_03.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-04" -o dataout/hurriyet2018_04.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-05" -o dataout/hurriyet2018_05.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-06" -o dataout/hurriyet2018_06.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-07" -o dataout/hurriyet2018_07.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-08" -o dataout/hurriyet2018_08.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-09" -o dataout/hurriyet2018_09.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-10" -o dataout/hurriyet2018_10.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-11" -o dataout/hurriyet2018_11.json -t json
+
+scrapy crawl hurriyet -a yearmonth="2018-12" -o dataout/hurriyet2018_12.json -t json
+
